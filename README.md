@@ -13,7 +13,7 @@ Beautiful Soup library was used to scrape the necessary data:
 - Shipping Type
 - Where was the phone shipped from?
   
-### The collected data is then stored in a **CSV file**, which can be used for various purposes, such as:
+### The collected data is then stored in a [CSV file](https://github.com/IheachoFavour/Web-Scraping-Python/blob/master/Mobile_Phones.csv) which can be used for various purposes, such as:
 - Competitive price analysis
 - Product trend monitoring
 - Sentiment analysis based on customer reviews
